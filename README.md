@@ -15,49 +15,6 @@
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="50" />  
-</div></td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div></td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png?auto=compress,format" alt="GCP" height="50" />  
-</div></td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/hishammohamad" target="_blank">
