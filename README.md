@@ -1,4 +1,4 @@
-### <div align="center">Hisham,👨‍💻 i like explore new Knowledge like  UI & UX || Web Designer || Wordpress & Programming 🚀</div>  
+### <div align="center">Hisham,👨‍💻 i like explore new Knowledge like Programming 🚀</div>  
   
 
 - 🔭 I’m currently working on ...  
