@@ -1,20 +1,12 @@
 ### <div align="center">Hisham,👨‍💻 i like explore new Knowledge like Programming 🚀</div>  
   
-
 - 🔭 I’m currently working on ...  
   
-
 - 🌱 I’m currently still develop my skill 
   
-
-- ❓ i'm the kind of person who likes to ask, if the answer i'm looking for doesn't i understand.
-  
-
 - ⚡ faster learner  
   
-
 <br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/hishammohamad" target="_blank">
